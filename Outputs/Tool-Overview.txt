@@ -1,0 +1,8 @@
+ Tools to try in the training:
+
+ Check data - Nanoplot (Raw data and QCd)​
+ QC - Trim (filtlong) - some researchers leave the reads as is​
+ Assemble - Flye​
+ Assess assembly quality - QUAST​
+ Identify the ST - MLST​
+ Identify the AMR profile - Staramr
