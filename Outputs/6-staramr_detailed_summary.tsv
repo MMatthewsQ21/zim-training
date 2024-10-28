@@ -1,0 +1,20 @@
+Isolate ID	Data	Data Type	Predicted Phenotype	CGE Predicted Phenotype	%Identity	%Overlap	HSP Length/Total Length	Contig	Start	End	Accession
+Flye_on_data_5:_consensus	ST- (saureus)	MLST									
+Flye_on_data_5:_consensus	rep16	Plasmid			98.79	100.0	744/744	contig_2	15190	14455	GQ900401
+Flye_on_data_5:_consensus	rep16	Plasmid			99.33	100.0	744/744	contig_2	45234	44495	GQ900401
+Flye_on_data_5:_consensus	rep19	Plasmid			99.29	100.0	984/984	contig_2	45658	46634	AP003139
+Flye_on_data_5:_consensus	rep19	Plasmid			99.39	100.0	984/984	contig_2	15612	16589	AP003139
+Flye_on_data_5:_consensus	rep22	Plasmid			99.6	100.0	1005/1005	contig_1	917987	916986	AF503772
+Flye_on_data_5:_consensus	rep5a	Plasmid			99.42	100.0	861/861	contig_2	42359	43214	AP003139
+Flye_on_data_5:_consensus	rep5a	Plasmid			99.42	100.0	861/861	contig_2	12319	13175	AP003139
+Flye_on_data_5:_consensus	repUS43	Plasmid			99.83	100.0	1206/1206	contig_1	1319604	1318401	CP003584
+Flye_on_data_5:_consensus	aac(6')-aph(2'')	Resistance	amikacin, gentamicin, tobramycin	Gentamicin, Tobramycin, Netilmicin, Kanamycin, Amikacin, Dibekacin, Isepamicin, Fortimicin, Streptomycin	99.38	100.0	1440/1440	contig_2	57644	56214	M13771
+Flye_on_data_5:_consensus	aac(6')-aph(2'')	Resistance	amikacin, gentamicin, tobramycin	Gentamicin, Tobramycin, Netilmicin, Kanamycin, Amikacin, Dibekacin, Isepamicin, Fortimicin, Streptomycin	99.44	100.0	1440/1440	contig_2	27597	26166	M13771
+Flye_on_data_5:_consensus	aadD	Resistance	amikacin, tobramycin	Amikacin, Tobramycin	100.0	100.0	762/762	contig_1	921338	920577	M19465
+Flye_on_data_5:_consensus	ant(9)-Ia	Resistance	spectinomycin	Spectinomycin	99.87	100.0	783/783	contig_1	937255	936474	X02588
+Flye_on_data_5:_consensus	ant(9)-Ia	Resistance	spectinomycin	Spectinomycin	99.87	100.0	783/783	contig_1	2676501	2675720	X02588
+Flye_on_data_5:_consensus	bleO	Resistance	unknown[bleO_1_AF051917]	Bleomycin	99.75	100.0	399/399	contig_1	920355	919958	AF051917
+Flye_on_data_5:_consensus	erm(A)	Resistance	erythromycin, azithromycin	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	99.73	100.0	732/732	contig_1	935620	936349	X03216
+Flye_on_data_5:_consensus	erm(A)	Resistance	erythromycin, azithromycin	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	99.73	100.0	732/732	contig_1	2674865	2675594	X03216
+Flye_on_data_5:_consensus	mecA	Resistance	penicillin	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	99.35	100.0	2007/2007	contig_1	926692	924698	BX571856
+Flye_on_data_5:_consensus	tet(M)	Resistance	tetracycline	Doxycycline, Tetracycline, Minocycline	99.43	100.0	1920/1920	contig_1	1310155	1308247	AM990992

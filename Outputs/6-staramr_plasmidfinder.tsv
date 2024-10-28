@@ -1,0 +1,9 @@
+Isolate ID	Plasmid	%Identity	%Overlap	HSP Length/Total Length	Contig	Start	End	Accession
+Flye_on_data_5:_consensus	rep16	98.79	100.00	744/744	contig_2	15190	14455	GQ900401
+Flye_on_data_5:_consensus	rep16	99.33	100.00	744/744	contig_2	45234	44495	GQ900401
+Flye_on_data_5:_consensus	rep19	99.29	100.00	984/984	contig_2	45658	46634	AP003139
+Flye_on_data_5:_consensus	rep19	99.39	100.00	984/984	contig_2	15612	16589	AP003139
+Flye_on_data_5:_consensus	rep22	99.60	100.00	1005/1005	contig_1	917987	916986	AF503772
+Flye_on_data_5:_consensus	rep5a	99.42	100.00	861/861	contig_2	42359	43214	AP003139
+Flye_on_data_5:_consensus	rep5a	99.42	100.00	861/861	contig_2	12319	13175	AP003139
+Flye_on_data_5:_consensus	repUS43	99.83	100.00	1206/1206	contig_1	1319604	1318401	CP003584

@@ -1,0 +1,62 @@
+/usr/local/bin/quast --labels Flye_on_data_5__consensus -o outputdir --min-identity 95.0 --min-contig 500 --min-alignment 65 --ambiguity-usage one --ambiguity-score 0.99 --local-mis-size 200 --contig-thresholds 0,1000 --extensive-mis-size 1000 --scaffold-gap-max-size 1000 --unaligned-part-size 500 --x-for-Nx 90 /corral4/main/objects/d/5/e/dataset_d5e4d2d9-2f0c-4173-9e14-3c676b0d54c4.dat --threads 10
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-5.14.0-362.8.1.el9_3.x86_64-x86_64-with-glibc2.28 (linux_64)
+  Python version: 3.9.13
+  CPUs number: 23
+
+Started: 2024-10-13 11:29:32
+
+Logging to /corral4/main/jobs/061/299/61299432/working/outputdir/quast.log
+WARNING: --ambiguity-usage was set to 'all' because not default --ambiguity-score was specified
+
+CWD: /corral4/main/jobs/061/299/61299432/working
+Main parameters: 
+  MODE: default, threads: 10, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: all, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  /corral4/main/objects/d/5/e/dataset_d5e4d2d9-2f0c-4173-9e14-3c676b0d54c4.dat ==> Flye_on_data_5__consensus
+
+2024-10-13 11:29:36
+Running Basic statistics processor...
+  Contig files: 
+    Flye_on_data_5__consensus
+  Calculating N50 and L50...
+    Flye_on_data_5__consensus, N50 = 2907050, L50 = 1, auN = 2849398.5, Total length = 2967135, GC % = 32.91, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /corral4/main/jobs/061/299/61299432/working/outputdir/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /corral4/main/jobs/061/299/61299432/working/outputdir/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /corral4/main/jobs/061/299/61299432/working/outputdir/basic_stats/GC_content_plot.pdf
+  Drawing Flye_on_data_5__consensus GC content plot...
+    saved to /corral4/main/jobs/061/299/61299432/working/outputdir/basic_stats/Flye_on_data_5__consensus_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-10-13 11:29:38
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2024-10-13 11:29:39
+RESULTS:
+  Text versions of total report are saved to /corral4/main/jobs/061/299/61299432/working/outputdir/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /corral4/main/jobs/061/299/61299432/working/outputdir/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /corral4/main/jobs/061/299/61299432/working/outputdir/report.html
+  PDF version (tables and plots) is saved to /corral4/main/jobs/061/299/61299432/working/outputdir/report.pdf
+  Icarus (contig browser) is saved to /corral4/main/jobs/061/299/61299432/working/outputdir/icarus.html
+  Log is saved to /corral4/main/jobs/061/299/61299432/working/outputdir/quast.log
+
+Finished: 2024-10-13 11:29:39
+Elapsed time: 0:00:06.967800
+NOTICEs: 1; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
